@@ -1,0 +1,2 @@
+2024-12-01 14:10:16 INFO User logged in
+2024-12-01 14:10:16 ERROR Failed to connect to the database
